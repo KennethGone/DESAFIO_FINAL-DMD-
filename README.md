@@ -1,6 +1,5 @@
 # Desafío Mercado Central de San Salvador (DMD404)
 
-**Equipo:** NN
 **Integrantes:** 1. Kenneth Jeshua González Sosa - GS250179
                  2. Sebastián Enrique Colocho Jiménez - CJ252435
                  
